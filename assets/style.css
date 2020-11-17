@@ -1,0 +1,13 @@
+.project {
+    border: 1px solid black;
+    width: 300px;
+}
+
+.project img {
+    border-bottom: 1px solid black;
+}
+
+.project p
+{
+    padding-left: 10px;
+}
