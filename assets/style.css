@@ -7,6 +7,17 @@ body {
     color: white;
 }
 
+a:visited
+{
+    color: #496DDB;
+}
+a
+{
+    color: #496DDB;
+}
+a:hover {color:#496DDB;} 
+a:active {color:#496DDB;} 
+
 body section {
     display: flex;
 }
