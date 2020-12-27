@@ -7,6 +7,11 @@ body {
     color: white;
 }
 
+emph
+{
+    color: #444c4c;
+}
+
 a:visited
 {
     color: #496DDB;
