@@ -46,19 +46,21 @@ body section {
 .projects {
     display: flex;
     flex-direction: row;
+   
 }
 
 .project {
-    border: 1px solid #C8C2AE;
+    border: 3px solid #C8C2AE;
     width: 300px;
     min-height: 355px;
     margin: 10px;
     background-color: #8AB9B5;
     position: relative;
+    
 }
 
 .project img {
-    border-bottom: 1px solid #C8C2AE;
+    border-bottom: 3px solid #C8C2AE;
 }
 
 .project p {
